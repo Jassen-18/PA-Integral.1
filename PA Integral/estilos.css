@@ -1,0 +1,29 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background-color: #fffef9;
+  color: #333;
+  
+}
+
+
+h2, h4 {
+  color: #8b0000;
+}
+
+.navbar-brand {
+  font-weight: bold;
+}
+
+.card-title {
+  color: #8b0000;
+}
+
+.btn-danger {
+  background-color: #8b0000;
+  border: none;
+}
+
+.carousel-inner img {
+  max-height: 300px;
+  object-fit: cover;
+}
